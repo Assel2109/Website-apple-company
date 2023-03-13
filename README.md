@@ -1,5 +1,5 @@
 
-# Apple website replica with React  
+# Website apple company 
 
 ## Table of contents
 * [General info](#general-info)
