@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Copyright](#Copyright)
+
 
 ## General info
 Recreated the live website of www.apple.com starting from the design, all the way to creating React components and deploying the project. This project also includes a section of poplar apple videos that directly access from youtube using API.
